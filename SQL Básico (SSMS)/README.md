@@ -6,3 +6,6 @@
 ## Configuração do SSMS
 
 1) Botão direito em "Banco de Dados" no Pesquisador de Objetos, "Restaurar Banco de Dados" e selecionar o arquivo AdventureWorks2017.bak
+
+
+#### Link curso na udemy: https://www.udemy.com/course/curso-sql-completo-desafios-e-muita-pratica/learn/lecture/16638450#overview
